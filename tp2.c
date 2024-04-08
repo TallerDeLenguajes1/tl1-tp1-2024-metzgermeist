@@ -19,6 +19,7 @@ int main()
     resultado = cuadrado(num1);
 
     printf("\nel cuadrado de %d es= %d", num1, resultado);
+    puts("hola mundo");
 
     //-----usando la notacion de punteros----/
 
